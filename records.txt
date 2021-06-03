@@ -1,0 +1,7 @@
+1000
+meal breakfast -50
+meal lunch -100
+meal breakfast -50
+bus school -10
+salary intern 100
+meal breakfast -50
